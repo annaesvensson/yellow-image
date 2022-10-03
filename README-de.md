@@ -63,4 +63,4 @@ Diese Erweiterung enthält ein [Bild](https://unsplash.com/photos/xII7efH1G6o) v
 
 ## Entwickler
 
-Datenstrom. [Hilfe finden](https://datenstrom.se/de/yellow/help/).
+Anna Svensson. [Hilfe finden](https://datenstrom.se/de/yellow/help/).

@@ -63,4 +63,4 @@ This extension includes a [photo](https://unsplash.com/photos/xII7efH1G6o) by Al
 
 ## Developer
 
-Datenstrom. [Get help](https://datenstrom.se/yellow/help/).
+Anna Svensson. [Get help](https://datenstrom.se/yellow/help/).

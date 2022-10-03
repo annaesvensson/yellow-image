@@ -64,4 +64,4 @@ Detta tilläg innehåller en [bild](https://unsplash.com/photos/xII7efH1G6o) av 
 
 ## Utvecklare
 
-Datenstrom. [Få hjälp](https://datenstrom.se/sv/yellow/help/).
+Anna Svensson. [Få hjälp](https://datenstrom.se/sv/yellow/help/).
