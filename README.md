@@ -57,7 +57,7 @@ The following settings can be configured in file `system/extensions/yellow-syste
 
 ## Acknowledgements
 
-This extension includes a [photo](https://unsplash.com/photos/xII7efH1G6o) by Alejandro Escamilla. Thanks for the beautiful photo.
+This extension includes a [photo](https://unsplash.com/photos/xII7efH1G6o) by Alejandro Escamilla. Thank you for the beautiful photo.
 
 ## Installation
 
