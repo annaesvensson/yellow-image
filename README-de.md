@@ -55,11 +55,13 @@ Die folgenden Einstellungen können in der Datei `system/extensions/yellow-syste
 `ImageUploadJpgQuality` = JPG-Qualität für hochgeladene Bilder  
 `ImageThumbnailJpgQuality` = JPG-Qualität für Miniaturbilder  
 
+## Danksagung
+
+Diese Erweiterung enthält ein [Foto](https://unsplash.com/photos/xII7efH1G6o) von Alejandro Escamilla. Danke für das schöne Foto.
+
 ## Installation
 
 [Erweiterung herunterladen](https://github.com/annaesvensson/yellow-image/archive/main.zip) und die ZIP-Datei in dein `system/extensions`-Verzeichnis kopieren. [Weitere Informationen zu Erweiterungen](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md).
-
-Diese Erweiterung enthält ein [Bild](https://unsplash.com/photos/xII7efH1G6o) von Alejandro Escamilla.
 
 ## Entwickler
 

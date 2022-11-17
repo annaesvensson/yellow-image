@@ -55,11 +55,13 @@ The following settings can be configured in file `system/extensions/yellow-syste
 `ImageUploadJpgQuality` = JPG quality for uploaded images  
 `ImageThumbnailJpgQuality` = JPG quality for thumbnails  
 
+## Acknowledgements
+
+This extension includes a [photo](https://unsplash.com/photos/xII7efH1G6o) by Alejandro Escamilla. Thanks for the beautiful photo.
+
 ## Installation
 
 [Download extension](https://github.com/annaesvensson/yellow-image/archive/main.zip) and copy ZIP file into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
-
-This extension includes a [photo](https://unsplash.com/photos/xII7efH1G6o) by Alejandro Escamilla.
 
 ## Developer
 
