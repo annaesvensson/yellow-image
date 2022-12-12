@@ -6,6 +6,10 @@ Images and thumbnails.
 
 <p align="center"><img src="image-screenshot.png?raw=true" alt="Screenshot"></p>
 
+## How to install an extension
+
+[Download ZIP file](https://github.com/annaesvensson/yellow-image/archive/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
+
 ## How to add an image
 
 Create an `[image]` shortcut.
@@ -58,10 +62,6 @@ The following settings can be configured in file `system/extensions/yellow-syste
 ## Acknowledgements
 
 This extension includes a [photo](https://unsplash.com/photos/xII7efH1G6o) by Alejandro Escamilla. Thank you for the beautiful photo.
-
-## Installation
-
-[Download extension](https://github.com/annaesvensson/yellow-image/archive/main.zip) and copy ZIP file into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
 ## Developer
 
