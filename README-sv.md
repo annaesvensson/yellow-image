@@ -62,7 +62,7 @@ Följande inställningar kan konfigureras i filen `system/extensions/yellow-syst
 
 ## Tack
 
-Detta tilläg innehåller ett [foto](https://unsplash.com/photos/xII7efH1G6o) av Alejandro Escamilla. Tack för det vackra fotot.
+Detta tillägg innehåller ett [foto](https://unsplash.com/photos/xII7efH1G6o) av Alejandro Escamilla. Tack för det vackra fotot.
 
 ## Utvecklare
 
