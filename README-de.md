@@ -2,7 +2,7 @@
 
 # Image 0.8.19
 
-Bilder in unterschiedlichen Größen.
+Bilder in unterschiedlichen Größen hinzufügen.
 
 <p align="center"><img src="image-screenshot.png?raw=true" alt="Bildschirmfoto"></p>
 

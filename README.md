@@ -2,7 +2,7 @@
 
 # Image 0.8.19
 
-Images and thumbnails.
+Add images and thumbnails.
 
 <p align="center"><img src="image-screenshot.png?raw=true" alt="Screenshot"></p>
 

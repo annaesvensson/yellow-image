@@ -2,7 +2,7 @@
 
 # Image 0.8.19
 
-Bilder och miniatyrbilder.
+Lägg till bilder och miniatyrbilder.
 
 <p align="center"><img src="image-screenshot.png?raw=true" alt="Skärmdump"></p>
 
