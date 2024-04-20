@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Image 0.9.1
+# Image 0.9.2
 
 Add images and thumbnails.
 
@@ -22,7 +22,7 @@ The following arguments are available, all but the first argument are optional:
 `Width` = image width, pixel or percent  
 `Height` = image height, pixel or percent   
 
-The image formats GIF, JPG, PNG and SVG are supported. All media files are located in the `media` folder. The `media/images` folder is the place to store your images. The `media/thumbnails` folder contains image thumbnails. You can also create additional folders and organise files as you like.
+The image formats GIF, JPEG, PNG and SVG are supported. All media files are located in the `media` folder. The `media/images` folder is the place to store your images. The `media/thumbnails` folder contains image thumbnails. You can also create additional folders and organise files as you like.
 
 ## Examples
 
@@ -56,8 +56,8 @@ The following settings can be configured in file `system/extensions/yellow-syste
 
 `ImageUploadWidthMax` = maximum width for upload, larger images are resized  
 `ImageUploadHeightMax` = maximum height for upload, larger images are resized  
-`ImageUploadJpgQuality` = JPG quality for uploaded images  
-`ImageThumbnailJpgQuality` = JPG quality for thumbnails  
+`ImageUploadJpegQuality` = JPEG quality for uploaded images  
+`ImageThumbnailJpegQuality` = JPEG quality for thumbnails  
 
 ## Acknowledgements
 

@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Image 0.9.1
+# Image 0.9.2
 
 Lägg till bilder och miniatyrbilder.
 
@@ -22,7 +22,7 @@ Följande argument är tillgängliga, alla utom det första argumentet är valfr
 `Width` = bildbredd, pixel eller procent  
 `Height` = bildhöjd, pixel eller procent  
 
-Bildformaten GIF, JPG, PNG och SVG stöds. Alla mediefiler finns i `media` mappen.
+Bildformaten GIF, JPEG, PNG och SVG stöds. Alla mediefiler finns i `media` mappen.
 Mappen `media/images` är platsen för att lagra dina bilder. Mappen `media/thumbnails` innehåller miniatyrbilder. Du kan också skapa ytterligare mappar och organisera filer som du vill.
 
 ## Exempel
@@ -57,8 +57,8 @@ Följande inställningar kan konfigureras i filen `system/extensions/yellow-syst
 
 `ImageUploadWidthMax` = maximal bredd för uppladdning, större bilder minskas i storlek  
 `ImageUploadHeightMax` = maximal höjd för uppladdning, större bilder minskas i storlek  
-`ImageUploadJpgQuality` = JPG-kvalitet för uppladdade bilder  
-`ImageThumbnailJpgQuality` = JPG-kvalitet för miniatyrbilder  
+`ImageUploadJpegQuality` = JPEG-kvalitet för uppladdade bilder  
+`ImageThumbnailJpegQuality` = JPEG-kvalitet för miniatyrbilder  
 
 ## Tack
 

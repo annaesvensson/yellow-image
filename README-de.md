@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Image 0.9.1
+# Image 0.9.2
 
 Bilder in unterschiedlichen Größen hinzufügen.
 
@@ -22,7 +22,7 @@ Die folgenden Argumente sind verfügbar, alle bis auf das erste Argument sind op
 `Width` = Bildbreite, Pixel oder Prozent  
 `Height` = Bildhöhe, Pixel oder Prozent   
 
-Die Bildformate GIF, JPG, PNG und SVG werden unterstützt. Alle Mediendateien befinden sich im `media`-Verzeichnis. Das `media/images`-Verzeichnis ist zum Speichern von Bildern gedacht. Das `media/thumbnails`-Verzeichnis enthält Miniaturbilder. Man kann auch weitere Verzeichnisse hinzufügen und Dateien so organisieren wie man will.
+Die Bildformate GIF, JPEG, PNG und SVG werden unterstützt. Alle Mediendateien befinden sich im `media`-Verzeichnis. Das `media/images`-Verzeichnis ist zum Speichern von Bildern gedacht. Das `media/thumbnails`-Verzeichnis enthält Miniaturbilder. Man kann auch weitere Verzeichnisse hinzufügen und Dateien so organisieren wie man will.
 
 ## Beispiele
 
@@ -56,8 +56,8 @@ Die folgenden Einstellungen können in der Datei `system/extensions/yellow-syste
 
 `ImageUploadWidthMax` = maximale Breite zum Hochladen, größere Bilder werden verkleinert  
 `ImageUploadHeightMax` = maximale Höhe zum Hochladen, größere Bilder werden verkleinert  
-`ImageUploadJpgQuality` = JPG-Qualität für hochgeladene Bilder  
-`ImageThumbnailJpgQuality` = JPG-Qualität für Miniaturbilder  
+`ImageUploadJpegQuality` = JPEG-Qualität für hochgeladene Bilder  
+`ImageThumbnailJpegQuality` = JPEG-Qualität für Miniaturbilder  
 
 ## Danksagung
 
