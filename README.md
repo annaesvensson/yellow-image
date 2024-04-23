@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Image 0.9.2
+# Image 0.9.3
 
 Add images and thumbnails.
 
@@ -58,6 +58,7 @@ The following settings can be configured in file `system/extensions/yellow-syste
 `ImageUploadHeightMax` = maximum height for upload, larger images are resized  
 `ImageUploadJpegQuality` = JPEG quality for uploaded images  
 `ImageThumbnailJpegQuality` = JPEG quality for thumbnails  
+`ImageJpegExtension` = JPEG file extension, e.g. `auto`, `.jpeg`, `.jpg`  
 
 ## Acknowledgements
 

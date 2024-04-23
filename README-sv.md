@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Image 0.9.2
+# Image 0.9.3
 
 Lägg till bilder och miniatyrbilder.
 
@@ -59,6 +59,7 @@ Följande inställningar kan konfigureras i filen `system/extensions/yellow-syst
 `ImageUploadHeightMax` = maximal höjd för uppladdning, större bilder minskas i storlek  
 `ImageUploadJpegQuality` = JPEG-kvalitet för uppladdade bilder  
 `ImageThumbnailJpegQuality` = JPEG-kvalitet för miniatyrbilder  
+`ImageJpegExtension` = JPEG-filändele, t.ex. `auto`, `.jpeg`, `.jpg`  
 
 ## Tack
 

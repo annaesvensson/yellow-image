@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Image 0.9.2
+# Image 0.9.3
 
 Bilder in unterschiedlichen Größen hinzufügen.
 
@@ -58,6 +58,7 @@ Die folgenden Einstellungen können in der Datei `system/extensions/yellow-syste
 `ImageUploadHeightMax` = maximale Höhe zum Hochladen, größere Bilder werden verkleinert  
 `ImageUploadJpegQuality` = JPEG-Qualität für hochgeladene Bilder  
 `ImageThumbnailJpegQuality` = JPEG-Qualität für Miniaturbilder  
+`ImageJpegExtension` = JPEG-Dateiendung, z.B. `auto`, `.jpeg`, `.jpg`  
 
 ## Danksagung
 
