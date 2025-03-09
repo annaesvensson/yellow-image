@@ -62,7 +62,7 @@ Die folgenden Einstellungen können in der Datei `system/extensions/yellow-syste
 
 ## Danksagung
 
-Diese Erweiterung enthält ein [Foto](https://unsplash.com/photos/xII7efH1G6o) von Alejandro Escamilla. Danke für das schöne Foto.
+Diese Erweiterung enthält ein Foto von Alejandro Escamilla. Danke für das schöne Foto.
 
 ## Entwickler
 
