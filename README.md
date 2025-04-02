@@ -26,6 +26,19 @@ The image formats GIF, JPEG, PNG and SVG are supported. All media files are loca
 
 ## Examples
 
+Content file with images and thumbnails:
+
+    ---
+    Title: Example page
+    ---
+    This is an example page with images and thumbnails.
+
+    [image photo.jpg Example]
+
+    [image photo.jpg Example - 34%]
+    [image photo.jpg Example - 20%]
+    [image photo.jpg Example - 10%]
+
 Adding an image, different descriptions:
 
     [image photo.jpg Example]

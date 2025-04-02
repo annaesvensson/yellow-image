@@ -27,6 +27,19 @@ Mappen `media/images` är platsen för att lagra dina bilder. Mappen `media/thum
 
 ## Exempel
 
+Innehållsfil med bilder och miniatyrbilder:
+
+    ---
+    Title: Exempelsida
+    ---
+    Detta är en exempelsida med bilder och miniatyrbilder.
+
+    [image photo.jpg Exempel]
+
+    [image photo.jpg Exempel - 34%]
+    [image photo.jpg Exempel - 20%]
+    [image photo.jpg Exempel - 10%]
+
 Lägga till en bild, olika beskrivningar:
 
     [image photo.jpg Exempel]

@@ -26,6 +26,19 @@ Die Bildformate GIF, JPEG, PNG und SVG werden unterstützt. Alle Mediendateien b
 
 ## Beispiele
 
+Inhaltsdatei mit Bilder in unterschiedlichen Größen:
+
+    ---
+    Title: Beispielseite
+    ---
+    Das ist eine Beispielseite mit Bilder in unterschiedlichen Größen.
+
+    [image photo.jpg Beispiel]
+
+    [image photo.jpg Beispiel - 34%]
+    [image photo.jpg Beispiel - 20%]
+    [image photo.jpg Beispiel - 10%]
+
 Bild hinzufügen, unterschiedliche Beschreibungen:
 
     [image photo.jpg Beispiel]
