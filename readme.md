@@ -1,8 +1,6 @@
-<p align="right"><a href="readme-de.md">Deutsch</a> &nbsp; <a href="readme.md">English</a> &nbsp; <a href="readme-sv.md">Svenska</a></p>
-
 # Image 0.9.3
 
-Add images and thumbnails.
+Add images and thumbnails. Developed by Anna Svensson.
 
 <p align="center"><img src="screenshot.png" alt="Screenshot"></p>
 
@@ -77,6 +75,4 @@ The following settings can be configured in file `system/extensions/yellow-syste
 
 This extension includes a photo by Alejandro Escamilla. Thank you for the beautiful photo.
 
-## Developer
-
-Anna Svensson. [Get help](https://datenstrom.se/yellow/help/).
+Do you have questions? [Get help](https://datenstrom.se/yellow/help/).

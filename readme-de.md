@@ -1,8 +1,6 @@
-<p align="right"><a href="readme-de.md">Deutsch</a> &nbsp; <a href="readme.md">English</a> &nbsp; <a href="readme-sv.md">Svenska</a></p>
-
 # Image 0.9.3
 
-Bilder in unterschiedlichen Größen hinzufügen.
+Bilder in unterschiedlichen Größen hinzufügen. Entwickelt von Anna Svensson.
 
 <p align="center"><img src="screenshot.png" alt="Bildschirmfoto"></p>
 
@@ -77,6 +75,4 @@ Die folgenden Einstellungen können in der Datei `system/extensions/yellow-syste
 
 Diese Erweiterung enthält ein Foto von Alejandro Escamilla. Danke für das schöne Foto.
 
-## Entwickler
-
-Anna Svensson. [Hilfe finden](https://datenstrom.se/de/yellow/help/).
+Hast du Fragen? [Hilfe finden](https://datenstrom.se/de/yellow/help/).
