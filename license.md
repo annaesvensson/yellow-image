@@ -279,16 +279,24 @@ END OF TERMS AND CONDITIONS
 
 ## How to apply this license to this software
 
-At the start of each source file you see a link to a website, that contains 
+At the start of each source code file is a link to a website, that contains 
 this license and contact information. For example:
 
-    Datenstrom Yellow, https://github.com/datenstrom/yellow
+    Datenstrom Yellow, https://datenstrom.se/yellow/
 
-If your software is based on modified source code, you have to keep the 
-original link in each source file. For example: 
+If you modify the source code, you must keep the original link(s) at the start 
+of each source code file. For example: 
 
-    Gnomovision Orange, https://github.com/gnomovision/orange
-    Based on Datenstrom Yellow, https://github.com/datenstrom/yellow
+    Gnomovision Orange, https://gnomovision.org/orange/
+    Based on Datenstrom Yellow, https://datenstrom.se/yellow/
 
-All source files are copyrighted by the respective author(s) 
+The source code of this software has been made available as open source and 
+therefore may not be used a) in proprietary source code and b) in proprietary 
+datasets intended to train or improve machine learning algorithms, including 
+but not limited to artificial intelligence, natural language processing or 
+large language models. You must obtain a different license from the author(s) 
+in such cases, otherwise you will be liable for all costs associated with the 
+use of unlicensed software.
+
+The source code is copyrighted by the respective author(s) 
 and licensed under GPL version 2, unless stated otherwise.
