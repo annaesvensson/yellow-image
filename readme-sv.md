@@ -1,4 +1,4 @@
-# Image 0.9.3
+# Image 1.0.1
 
 Lägg till bilder och miniatyrbilder. Utvecklad av Anna Svensson.
 

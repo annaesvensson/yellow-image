@@ -1,4 +1,4 @@
-# Image 0.9.3
+# Image 1.0.1
 
 Bilder in unterschiedlichen Größen hinzufügen. Entwickelt von Anna Svensson.
 
